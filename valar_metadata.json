@@ -2,7 +2,7 @@
   "name": "Valar Morgulis",
   "symbol": "VLR",
   "description": "A token for the apostles of Valar Morghulis.",
-  "image": "https://raw.githubusercontent.com/<yourusername>/<yourrepo>/main/mycoin.png",
+  "image": "https://github.com/LordNecromancer/Token-Solana/blob/main/valar_morghulis.png?raw=true",
   "attributes": [],
   
 }
