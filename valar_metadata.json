@@ -2,7 +2,6 @@
   "name": "Valar Morgulis",
   "symbol": "VM",
   "description": "A token for the apostles of Valar Morghulis.",
-  "image": "https://github.com/LordNecromancer/Token-Solana/blob/main/valar_morghulis.png?raw=true",
-  "attributes": [],
+  "image": "https://github.com/LordNecromancer/Token-Solana/blob/main/valar_morghulis.png?raw=true"
   
 }
